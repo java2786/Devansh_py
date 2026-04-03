@@ -1,0 +1,26 @@
+Core Python Topics
+
+Basic syntax & REPL: interpreter, scripts, indentation, comments, shebang
+Data types & literals: int, float, bool, str, bytes, None
+Variables & assignment: naming, multiple assignment, immutability vs mutability
+Operators: arithmetic, comparison, logical, bitwise, membership, identity
+Control flow: if/elif/else, for loops, while loops, break/continue/else clauses
+Functions: def, return, parameters, *args/**kwargs, default arguments, keyword-only args, lambda, docstrings, recursion
+Data structures: list, tuple, set, dict — creation, methods, comprehensions, iteration patterns
+String handling: formatting (f-strings, format, %), slicing, methods, regex basics (re)
+File I/O: open, read/write, context managers (with), binary vs text modes
+Modules & packages: import system, creating packages, init.py, pip basics, virtual environments
+Exceptions & error handling: try/except/finally/else, custom exceptions, raising exceptions, traceback
+Object-oriented programming: classes, instances, attributes, methods, inheritance, multiple inheritance, super(), class/static methods, properties, dunder methods (init, repr, str, eq, len, etc.)
+
+
+Iterators & generators: iterator protocol, iter(), next(), generator functions (yield), generator expressions, itertools
+Decorators & context managers: function decorators, class-based decorators, contextlib, creating enter/exit
+Concurrency basics: threading, multiprocessing, asyncio (coroutines, event loop, async/await)
+Typing & annotations: type hints, typing module (List, Tuple, Optional, Union, Protocol), mypy basics
+Standard library essentials: collections, datetime, os, sys, pathlib, json, csv, subprocess, logging, functools, operator, math, random
+Testing & debugging: unittest/pytest, pdb, logging, assertions
+Performance & memory: profiling, timeit, memory usage, common optimization patterns
+Packaging & distribution: setup.py/pyproject.toml, wheels, pip install, entry points
+Security basics: input validation, escaping, secrets module, handling credentials (best practices)
+Interfacing & integrations: working with APIs (requests), databases (sqlite, SQLAlchemy), web frameworks basics (Flask/Django overview)
