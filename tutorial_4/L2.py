@@ -1,0 +1,6 @@
+n = 5
+count = 1
+
+while(count<11):
+    print(f"{n} x {count} = {n * count}")
+    count = count + 1
