@@ -1,0 +1,5 @@
+samosa,15,0,0
+tea,10,0,0
+pizza,70,0,0
+burger,30,0,0
+jalebi,35,0,0
