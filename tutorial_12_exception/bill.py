@@ -1,0 +1,1 @@
+quantity = int(input("Enter samosa quantity: "))
